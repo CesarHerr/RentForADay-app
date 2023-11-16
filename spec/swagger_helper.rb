@@ -22,10 +22,10 @@ RSpec.configure do |config|
       paths: {},
       servers: [
         {
-          url: 'https://rent-for-a-day.onrender.com/',
+          url: 'https://rent-for-a-day.up.railway.app/',
           variables: {
             defaultHost: {
-              default: 'https://rent-for-a-day.onrender.com/'
+              default: 'https://rent-for-a-day.up.railway.app/'
             }
           }
         }

@@ -159,8 +159,6 @@ paths:
       responses:
         '200':
           description: item Created
-        '422':
-          description: Invalid Request
       requestBody:
         content:
           application/json:
@@ -264,8 +262,6 @@ paths:
       - User
       parameters: []
       responses:
-        '200':
-          description: Logged is succesfully
         '401':
           description: Invalid credentials
       requestBody:
@@ -285,7 +281,7 @@ paths:
               - email
               - password
 servers:
-- url: https://rent-for-a-day.onrender.com/
+- url: https://rent-for-a-day.up.railway.app/
   variables:
     defaultHost:
-      default: https://rent-for-a-day.onrender.com/
+      default: https://rent-for-a-day.up.railway.app/
