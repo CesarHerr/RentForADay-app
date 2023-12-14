@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "app_id": "app_41e58151-e76e-4df6-9a0f-d6d1d61c2691",
+      "org_id": "user_675f884f-916e-4603-8328-e4c6745f8e20",
+      "deploy_url": "https://push-n3-par-clevercloud-customers.services.clever-cloud.com/app_41e58151-e76e-4df6-9a0f-d6d1d61c2691.git",
+      "name": "RentForADay-app",
+      "alias": "rent"
+    }
+  ]
+}
