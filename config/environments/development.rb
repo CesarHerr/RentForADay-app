@@ -75,4 +75,7 @@ Rails.application.configure do
   config.action_controller.raise_on_missing_callback_actions = true
 
   config.action_mailer.default_url_options = { host: 'localhost', port: 4000 }
+
+  Rails.application.config.hosts << "rentforaday-x4p467yi.b4a.run"
+
 end
