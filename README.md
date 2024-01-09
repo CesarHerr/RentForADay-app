@@ -39,10 +39,10 @@
 **"Rent For a Day"** is a reservation-based application to rent a property/accommodation for a day. This project is a React/Redux Toolkit application, and it allows users to register and log in with their credentials, see all the items registered, and add or delete items to the inventory.
 
 Two repositories were created for its construction:
-- [A backend repository](https://github.com/Zven94/RentForADay-app) with an API built with the [Ruby on Rails](https://rubyonrails.org/) Framework with a [PostgreSQL](https://www.postgresql.org/) database.
-- [A frontend repository](https://github.com/Zven94/rentforaday-front-end) with a React/Redux Toolkit application from which the created API is consumed.
+- [A backend repository](https://github.com/CesarHerr/RentForADay-app) with an API built with the [Ruby on Rails](https://rubyonrails.org/) Framework with a [PostgreSQL](https://www.postgresql.org/) database.
+- [A frontend repository](https://github.com/CesarHerr/rentforaday-front-end) with a React/Redux Toolkit application from which the created API is consumed.
 
-Additionally, the API documentation is available [here](https://rent-for-a-day.onrender.com/api-docs/index.html).
+Additionally, the API documentation is available [here](https://ren-for-day.onrender.com/api-docs/index.html).
 
 
 ---
