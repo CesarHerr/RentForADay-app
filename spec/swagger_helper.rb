@@ -22,10 +22,10 @@ RSpec.configure do |config|
       paths: {},
       servers: [
         {
-          url: 'https://rent-for-a-day.onrender.com/',
+          url: 'https://rent-for-day-9756573c4a9e.herokuapp.com/',
           variables: {
             defaultHost: {
-              default: 'https://rent-for-a-day.onrender.com/'
+              default: 'https://rent-for-day-9756573c4a9e.herokuapp.com/'
             }
           }
         }
